@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 """
 Project: Titanic Survival Analysis
-Author: Shiping Yu
+Author: Shiping Yu, Tianhao Wang, Bohan Yang, Andrew Xu, Sainath sunkara
 
 Description:
 This project analyzes the Titanic dataset to identify key factors influencing passenger survival rates.
